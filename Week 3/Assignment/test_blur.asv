@@ -1,0 +1,17 @@
+clc;
+clear;
+close all;
+
+I = imread('lenna.png');
+I = rgb2gray(I);
+W = blur_single_channel(I, 30);
+subplot(1, 2, 1); imshow(I);
+subplot(1, 2, 2); imshow(W);
+
+function W = pixellated(I, w)
+    [n, m, c] = size(I);
+    U = uint8(ones(n + 2 * w, m + 2 * w, c));
+    U(w + 1 : n + w, w + 1 : m + w, :) = I;
+    % processing
+    W = U(
+end
