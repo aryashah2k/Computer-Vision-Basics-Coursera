@@ -18,8 +18,10 @@ Week 4 : Mathematics For Computer Vision
 
 # 🎓 Certificate
 
-<a href="Add Link">Click To View Certificate PDF</a>
+<a href="https://github.com/aryashah2k/Computer-Vision-Basics-Coursera/blob/master/assets/Computer%20Vision%20Basics.pdf">Click To View Certificate PDF</a>
 
-![certificate](Add Link To Pic)
+![certificate](https://github.com/aryashah2k/Computer-Vision-Basics-Coursera/blob/master/assets/Computer%20Vision%20Basics-Coursera-Arya%20Shah.png)
 
 # Resources
+
+To Be Added Soon!
