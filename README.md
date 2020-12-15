@@ -8,13 +8,13 @@ A Repository Maintaining My Solutions And Additional Resources For The Course- C
 
 ## Table Of Contents
 
-Week 1 : Computer Vision Overview
+<a href="https://github.com/aryashah2k/Computer-Vision-Basics-Coursera/tree/master/Week%201">Week 1</a> : Computer Vision Overview
 
-Week 2 : Colour, Light, Image Formation
+<a href="https://github.com/aryashah2k/Computer-Vision-Basics-Coursera/tree/master/Week%202">Week 2</a> : Colour, Light, Image Formation
 
-Week 3 : Low, Mid, High Level Vision
+<a href="https://github.com/aryashah2k/Computer-Vision-Basics-Coursera/tree/master/Week%203">Week 3</a> : Low, Mid, High Level Vision
 
-Week 4 : Mathematics For Computer Vision
+<a href="https://github.com/aryashah2k/Computer-Vision-Basics-Coursera/tree/master/Week%204">Week 4</a> : Mathematics For Computer Vision
 
 # 🎓 Certificate
 
