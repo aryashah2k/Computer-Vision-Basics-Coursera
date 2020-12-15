@@ -39,7 +39,13 @@ A Repository Maintaining My Solutions And Additional Resources For The Course- C
 
 ### Week 3 Resources
 
-
+- Three Levels: https://www.albany.edu/~ron/papers/marrlevl.html
+- Top-down vs. Bottom-up Approaches: http://www.hbcse.tifr.res.in/jrmcont/notespart1/node45.html
+- Low-Level Image Processing: http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/MARBLE/low/low.htm
+- Image Matching Techniques: https://arxiv.org/abs/1710.02726
+- Mid-Level Vision: http://bankslab.berkeley.edu/members/sergei/ALT/Sergei_MidLevelVision.htm
+- Image Segmentation: https://en.wikipedia.org/wiki/Image_segmentation
+- High-Level Vision: https://www.ncbi.nlm.nih.gov/pubmed/24552691
 
 # 🎓 Certificate
 
