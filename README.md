@@ -47,6 +47,14 @@ A Repository Maintaining My Solutions And Additional Resources For The Course- C
 - Image Segmentation: https://en.wikipedia.org/wiki/Image_segmentation
 - High-Level Vision: https://www.ncbi.nlm.nih.gov/pubmed/24552691
 
+### Week 4 Resources
+
+- Stereo Matching: https://www.sciencedirect.com/topics/engineering/stereo-matching
+- Experimental Comparison Of Stereo Algorithms: http://www.cs.cornell.edu/~rdz/Papers/SZ-visalg99.pdf
+- Seam Carving: https://www.analyticsvidhya.com/blog/2020/09/seam-carving-algorithm-a-seemingly-impossible-way-to-resize-an-image/
+- Binary Image Restoration: https://www.researchgate.net/publication/261235396_An_Algorithm_for_Binary_Image_Restoration
+- Image Segmentation: https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/
+
 # 🎓 Certificate
 
 <a href="https://github.com/aryashah2k/Computer-Vision-Basics-Coursera/blob/master/assets/Computer%20Vision%20Basics.pdf">Click To View Certificate PDF</a>
